@@ -6,3 +6,5 @@ while True:
             fahrenheit_temperature = (temperature * 9/5) + 32
             print(f"Fahrenheit: {round(fahrenheit_temperature, 2)}°F")
             
+        elif conversion == 2:
+            
