@@ -16,4 +16,4 @@ while True:
         break
 
     except ValueError:
-        
+        print("You have made an Invalid Input, Please Enter a valid number for temperature and '1' (Celsius to Fahrenheit) or '2' (Fahrenheit to Celsius)!")
