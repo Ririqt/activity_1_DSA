@@ -12,4 +12,6 @@ while True:
         
         else:
             print("Sorry, Please Enter '1' or '2' ")
-             
+            continue
+        break
+    
