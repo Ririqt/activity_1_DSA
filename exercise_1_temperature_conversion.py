@@ -4,3 +4,5 @@ while True:
         conversion = int(input("Type '1' for (Celsius to Fahrenheit), Type '2' for (Fahrenheit to Celsius): "))
         if conversion == 1:
             fahrenheit_temperature = (temperature * 9/5) + 32
+            print(f"Fahrenheit: {round(fahrenheit_temperature, 2)}°F")
+            
