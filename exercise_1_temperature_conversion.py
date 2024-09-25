@@ -8,3 +8,5 @@ while True:
             
         elif conversion == 2:
             celsius_temperature = (temperature - 32) * 5/9
+            print(f"Celsius: {round(celsius_temperature, 2)}°C")
+            
