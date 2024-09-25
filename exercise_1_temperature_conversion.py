@@ -11,4 +11,5 @@ while True:
             print(f"Celsius: {round(celsius_temperature, 2)}°C")
         
         else:
-            
+            print("Sorry, Please Enter '1' or '2' ")
+             
