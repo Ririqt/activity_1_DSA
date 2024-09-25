@@ -7,4 +7,4 @@ while True:
             print(f"Fahrenheit: {round(fahrenheit_temperature, 2)}°F")
             
         elif conversion == 2:
-            
+            celsius_temperature = (temperature - 32) * 5/9
